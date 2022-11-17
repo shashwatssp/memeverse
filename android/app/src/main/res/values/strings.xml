@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="facebook_app_id">509020271138043</string>
+<string name="fb_login_protocol_scheme">fb509020271138043</string>
+<string name="facebook_client_token">1ef49ce44e8fab507c8fdca8868f2b0a</string>
+<string name="app_name">memeverse</string>
+
+</resources>

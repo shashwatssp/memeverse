@@ -1,8 +1,13 @@
-Memeverse is an Android app developed using Flutter and Firebase which allows the users to post memes.
+• A platform where users can watch and post memes while also being able to like, 
+share and comment on those memes 
 
-Features :
+ #About the App
 
-# Users can post memes both in video as well as image format
-# Authentication via Google
-# Users can search for memes 
-# Users can view memes in their feed
+• It is developed using Flutter, Firebase and Riverpod for State Management
+
+• Implemented the functionality to Login using Google and Facebook using 
+Firebase authentication.
+
+• Used image picker and video picker to allow the users to upload a meme as an 
+image or a video file.
+

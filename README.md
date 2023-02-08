@@ -1,9 +1,9 @@
-App Demo Link : https://youtu.be/MBdtZxNaYag
+# App Demo Link : https://youtu.be/MBdtZxNaYag
+
+# About the App
 
 • A platform where users can watch and post memes while also being able to like, 
 share and comment on those memes 
-
- #About the App
 
 • It is developed using Flutter, Firebase and Riverpod for State Management
 

@@ -1,3 +1,5 @@
+App Demo Link : https://youtu.be/MBdtZxNaYag
+
 • A platform where users can watch and post memes while also being able to like, 
 share and comment on those memes 
 
@@ -10,4 +12,3 @@ Firebase authentication.
 
 • Used image picker and video picker to allow the users to upload a meme as an 
 image or a video file.
-
